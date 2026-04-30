@@ -1,0 +1,5 @@
+require("config.plugins.fzf_lua")
+require("config.plugins.oil")
+require("config.plugins.lsp")
+require("config.plugins.colorschemes")
+require("config.plugins.lualine")
